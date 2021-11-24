@@ -28,7 +28,7 @@ export const v1Client = new ApolloClient({
 
 export const blockClient = new ApolloClient({
   link: new HttpLink({
-    uri: 'https://info.kucoinswap.finance/subgraphs/name/rs-finance/kcc-block',
+    uri: 'https://thegraph.kcc.network/subgraphs/name/kcc-blocks',
   }),
   cache: new InMemoryCache(),
 })
