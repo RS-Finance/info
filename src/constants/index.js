@@ -27,7 +27,7 @@ export const OVERVIEW_TOKEN_BLACKLIST = [
   '0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1',
   '0xea54f38fffe79d92e9b56abafbcdbb6a14edaf5c',
   '0xe67ffceb40f263942a6ded6f12e7f525540f5a1f',
-  .'0xe62d5575e2f8b9ad740aa837ef80dc79c8d0d0a9',
+  '0xe62d5575e2f8b9ad740aa837ef80dc79c8d0d0a9',
 ]
 
 // pair blacklist 
